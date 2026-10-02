@@ -1,0 +1,1 @@
+rootProject.name = "BaiKiemTraMd2Lan1"
